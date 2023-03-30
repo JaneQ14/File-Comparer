@@ -1,5 +1,5 @@
 # File-Comparer
- A program that checks whether two files are the same. It can also generate file hashes and check data based on them.
+A program that checks whether two files are the same. It can also generate file hashes and check data based on them. (Windows .NET required)
  
 Download:
 https://github.com/JaneQ14/File-Comparer/releases/download/windows/File.Comparer.exe
