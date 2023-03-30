@@ -1,0 +1,10 @@
+C:\Users\Janek\source\repos\File Comparer\File Comparer\bin\Debug\File Comparer.exe.config
+C:\Users\Janek\source\repos\File Comparer\File Comparer\bin\Debug\File Comparer.exe
+C:\Users\Janek\source\repos\File Comparer\File Comparer\bin\Debug\File Comparer.pdb
+C:\Users\Janek\source\repos\File Comparer\File Comparer\obj\Debug\File Comparer.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\File Comparer\File Comparer\obj\Debug\File_Comparer.File_Comparer.resources
+C:\Users\Janek\source\repos\File Comparer\File Comparer\obj\Debug\File_Comparer.Properties.Resources.resources
+C:\Users\Janek\source\repos\File Comparer\File Comparer\obj\Debug\File Comparer.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\File Comparer\File Comparer\obj\Debug\File Comparer.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\File Comparer\File Comparer\obj\Debug\File Comparer.exe
+C:\Users\Janek\source\repos\File Comparer\File Comparer\obj\Debug\File Comparer.pdb
